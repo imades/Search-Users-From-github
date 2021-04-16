@@ -1,5 +1,5 @@
 # Search-Users-From-github
 Follow this steps to run project :
-cd mon-app
-npm install 
-npm start
+1)cd mon-app
+2)npm install 
+3)npm start
