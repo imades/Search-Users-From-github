@@ -1,5 +1,5 @@
 ## Search-Users-From-github
-#Follow this steps to run project :
+Follow this steps to run project :
 
 1)cd mon-app
 
